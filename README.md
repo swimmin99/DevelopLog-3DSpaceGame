@@ -41,7 +41,16 @@
 <div align="center">
   <img src ="https://user-images.githubusercontent.com/109887066/217244364-42996ad8-f319-4799-a640-8546a8c04f2c.png" width="50%" height="50%"/>
   
-  ```기존 : 스페이스 바를 누르면(ButtonDown)레이저가 계속해서 발생하고 한번 더 누르면(ButtonDown) 레이저가 꺼지는 형식```
+  <div align="left">
+  
+  ```
+  기존 :
+  스페이스 바를 누르면(ButtonDown)레이저가 계속해서 발생하고 한번 더 누르면(ButtonDown) 레이저가 꺼지는 형식
+  배경은 끊임없이 Scrolling 한다.
+  운석은 자동 생성되며 scale 값이 랜덤하게 지정된다.
+  ```
+
+<div align="center">
 
 
 |쉐이더적용전|쉐이더적용후|
