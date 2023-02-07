@@ -3,12 +3,16 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=250&color=auto&text=3D%20Space%20Shotting%20Study&fontColor=auto)
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=UNITY&fontColor=000000&fontSize=20)
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=2022.1.12~2022.1.24&fontColor=000000&fontSize=15)
-  
+
+<<해당 프로젝트는 공동개발 프로젝트 SPACE ODDYSEY의 세부 개발 로그입니다. 본 프로젝트 [링크](https://github.com/swimmin99/Game_SpaceOdyssey/blob/main/README.md)>>
+
 <div align="left">
 
+
+
 ```
-  📌  최종 목표 : 수업 시간에 만들었던 기본 슈팅 게임에 살을 붙여보자.
-  ☑️  유형 : 개인 프로젝트
+
+  ☑️  유형 : 공동 프로젝트
   ☑️  사용 기술 : C#, Unity, Blender
   💡  기대 : 자유롭게 새로운 기능을 추가해보자.
 ```
@@ -49,7 +53,7 @@
 <div align="center">
   <img src ="https://user-images.githubusercontent.com/109887066/217244364-42996ad8-f319-4799-a640-8546a8c04f2c.png" width="50%" height="50%"/>
   
-  ```스페이스 바를 누르면(ButtonDown)레이저가 계속해서 발생하고 한번 더 누르면(ButtonDown) 레이저가 꺼지는 형식```
+  ```기존 : 스페이스 바를 누르면(ButtonDown)레이저가 계속해서 발생하고 한번 더 누르면(ButtonDown) 레이저가 꺼지는 형식```
 
 
 |쉐이더적용전|쉐이더적용후|
@@ -83,3 +87,8 @@
   ```다중 카메라를 사용하여 시점을 바꾸는 것을 추가해 보았다.```
   
   <div align="left">
+  
+  <div align="center">
+
+  
+<<해당 프로젝트는 공동개발 프로젝트 SPACE ODDYSEY의 세부 개발 로그입니다. 본 프로젝트 [링크](https://github.com/swimmin99/Game_SpaceOdyssey/blob/main/README.md)>>
