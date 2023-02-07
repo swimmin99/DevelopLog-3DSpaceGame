@@ -21,15 +21,6 @@
 <br>
   
   ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=DEV%20SCHEDULE&fontColor=000000&fontSize=15)
-
-  
- 
-|날짜|차시|로그|참고자료(Credits)|코드|
-|---|---------|---------|----|-----|
-|2023-01-21|1|BuildingGeneration| [Module base Random Building Generation](https://www.youtube.com/watch?v=EWnLKpkJzVQ)<br>[3DModuleByKenny](https://www.kenney.nl/assets/modular-buildings)|
-|2022-01-28|2|PerlinNoise|[Article1](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/procedural-patterns-noise-part-1/introduction.html) <br> [Article2](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/perlin-noise-part-2/perlin-noise.html)||
-|2022-01-29|3|PlayerController|[Matt MirrorFish's Procedural City](https://www.youtube.com/watch?v=LHBR1Jfoh74&t=131s)|[BuildingClusterGenerator](https://github.com/swimmin99/PrivateStudy-AutoGeneration/blob/main/BuildingGeneratorNoiseInput.cs)<br>[GridSpawner](https://github.com/swimmin99/PrivateStudy-AutoGeneration/blob/main/GridSpawner.cs)|
-
   
   <br>
   
