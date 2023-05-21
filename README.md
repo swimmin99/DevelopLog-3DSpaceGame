@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=rect&height=250&color=auto&text=3D%20Space%20Ship%20Develop&fontColor=auto)
+![header](https://capsule-render.vercel.app/api?type=rect&height=250&color=auto&text=3D%20Space%20Ship&fontColor=auto)
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=UNITY&fontColor=000000&fontSize=20)
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=2022.1.12~2022.1.24&fontColor=000000&fontSize=15)
 
