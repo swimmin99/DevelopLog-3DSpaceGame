@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=UNITY&fontColor=000000&fontSize=20)
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=2022.1.12~2022.1.24&fontColor=000000&fontSize=15)
 
-<<해당 프로젝트는 공동개발 프로젝트 SPACE ODDYSEY의 세부 개발 로그입니다. 본 프로젝트 [링크](https://github.com/swimmin99/Game_SpaceOdyssey/blob/main/README.md)>>
+<<슈팅 게임 >>
 
 <div align="left">
 
